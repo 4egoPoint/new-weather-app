@@ -1,0 +1,13 @@
+.fotFound {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   font-size: 35px;
+   color: white;
+   height: 100%;
+}
+.fotFound> img{
+   border-radius: 10px;
+   margin-bottom: 10px;
+}

@@ -1,0 +1,44 @@
+.details{
+   margin-top: 40px;
+   padding: 20px;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   color: white;
+
+}
+
+.details__humidity{
+   display: flex;
+   align-items: center;
+   width: 45%;
+}
+
+.details__humidity-img{
+   width: 45px;
+   margin-right: 20px;
+}
+
+.details__humidity-wrap{}
+
+.details__humidity-number{}
+
+.details__humidity-text{}
+
+.details__wind{
+   display: flex;
+   align-items: center;
+   justify-content: flex-end;
+   width: 45%;
+}
+
+.details__wind-img{
+   width: 45px;
+   margin-right: 20px;
+}
+
+.details__wind-wrap{}
+
+.details__wind-number{}
+
+.details__wind-text{}

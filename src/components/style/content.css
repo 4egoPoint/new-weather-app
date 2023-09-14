@@ -1,0 +1,25 @@
+.content {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.content__weather-img {
+   width: 30%;
+}
+
+.content__temperature {
+   font-size: 55px;
+   color: white;
+}
+.hot{
+   color: rgb(247, 135, 135);
+}
+.cold{
+   color: rgb(141, 149, 251);
+}
+.content__city {
+   font-size: 40px;
+   letter-spacing: 1px;
+   color: white;
+}
